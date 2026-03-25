@@ -127,4 +127,4 @@ g++ project5_Cole_mzc0216.cpp -o producer_consumer -lpthread
 
 ## Author
 **Michael Cole** — Computer Engineering, Auburn University  
-[LinkedIn](https://www.linkedin.com/in/michael-cole) | [GitHub](https://github.com/lapizliluzi)
+[LinkedIn](https://www.linkedin.com/in/michael-cole-b948b0280/) | [GitHub](https://github.com/lapizliluzi)
